@@ -1,4 +1,5 @@
 def joke_bot():
+
     print("Hi! I'm JokeBot. What would you like?")
     user_input = input("Type your request: ")
 
